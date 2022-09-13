@@ -6,4 +6,4 @@ Courses:
 
 The Advanced SQL Server Masterclass for Data Analysis (Udemy) (in progress)
 - files saved with 'ASMDA' at the end of the file name
-
+- queries run on Microsoft's AdventureWorks2019 data tables
